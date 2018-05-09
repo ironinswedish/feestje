@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+	package
+		ADDED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:11-47
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+		ADDED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+		ADDED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml:3:1-50
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+		ADDED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+		ADDED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml
+		INJECTED from E:\users\user\AndroidStudioProjects\VibrAPP\rxjava\src\main\AndroidManifest.xml

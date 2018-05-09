@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1086c7</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="start_blue">#c1e4ef</color>
+    <color name="normal_blue">#fae7c4</color>
+    <color name="button_blue">#1385c3</color>
+    <color name="blue_background">#4e83eb</color>
+    <color name="selected_orange">#eb9f11</color>
+    <color name="login_blue">#1b59cc</color>
+    <color name="login_field_blue">#88b0ff</color>
+    <color name="extra_light_blue">#cce1f7</color>
+    <color name="background">#cce1f7</color>
+    <color name="lighter_blue">#cde0fa</color>
+    <color name="tussen_blue">#6498fc</color>
+</resources>

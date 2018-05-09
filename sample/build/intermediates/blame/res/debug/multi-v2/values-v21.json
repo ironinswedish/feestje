@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\users\\user\\AndroidStudioProjects\\VibrAPP\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.5.4.aar\\bd04fbf7d5af89f6189c49043120ef3a\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "140"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\jarne\\Desktop\\project\\jow\\app2018-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jarne\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.5.4.aar\\503eede054158b8c70e605a799eb61d9\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "140"
+                    }
+                }
+            ]
+        }
+    ]
+}
